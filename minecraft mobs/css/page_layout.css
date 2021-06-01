@@ -1,0 +1,49 @@
+body{
+    margin:auto;
+    background: floralwhite;
+}
+
+#head{
+    width: auto;
+    background-color: crimson;
+    margin: auto;
+    display: block;
+}
+#logo{
+   display:flex;
+}
+#logoimg{
+    margin: auto;
+    width: 40%;
+}
+
+h2{
+    margin: 10% 10%;
+    display: block;
+    text-align: center;
+    font-family: cursive;
+    color: brown;
+    font-size: xx-large;
+}
+
+#p{
+    text-align: center;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 900;
+    color: chocolate;
+    margin: 10px;
+}
+
+#container{
+   display: inline-block;
+    margin: auto;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+}
+
+i{
+    color: slategrey;
+}
